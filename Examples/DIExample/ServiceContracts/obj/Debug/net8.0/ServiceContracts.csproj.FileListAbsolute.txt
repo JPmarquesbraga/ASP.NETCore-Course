@@ -1,0 +1,11 @@
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\DIExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

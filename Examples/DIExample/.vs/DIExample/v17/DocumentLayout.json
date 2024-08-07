@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\diexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93D1613-F62A-459D-8D2A-64733459A608}|Services\\Services.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93D1613-F62A-459D-8D2A-64733459A608}|Services\\Services.csproj|solutionrelative:services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\diexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|solutionrelative:diexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\diexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|solutionrelative:diexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC78EC-FA53-4217-A131-DA63D5CD6950}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC78EC-FA53-4217-A131-DA63D5CD6950}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\diexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\diexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\diexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD6884CD-B5DA-41E3-8A45-0304F1A9B64F}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC78EC-FA53-4217-A131-DA63D5CD6950}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\diexample\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FAC78EC-FA53-4217-A131-DA63D5CD6950}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Program.cs",
+              "RelativeDocumentMoniker": "DIExample\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Program.cs",
+              "RelativeToolTip": "DIExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:06:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DIExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DIExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T20:46:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\Services\\CitiesService.cs",
+              "RelativeDocumentMoniker": "Services\\CitiesService.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\Services\\CitiesService.cs",
+              "RelativeToolTip": "Services\\CitiesService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:23:23.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\ServiceContracts\\ICitiesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICitiesService.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\ServiceContracts\\ICitiesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICitiesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:51:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DIExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DIExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:35:21.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DIExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DIExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T20:38:23.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DIExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DIExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T20:37:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DIExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\DIExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DIExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T20:44:21.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\DIExample\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T01:18:35.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\iactionresultexample\\iactionresultexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\iactionresultexample\\iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C8CA5A-F932-4F1A-8BB2-B32162287F86}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Models\\Book.cs",
+              "RelativeToolTip": "IActionResultExample\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:06:49.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:12:45.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:17:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\IActionResultExample\\IActionResultExample\\Program.cs",
+              "RelativeToolTip": "IActionResultExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:06:18.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

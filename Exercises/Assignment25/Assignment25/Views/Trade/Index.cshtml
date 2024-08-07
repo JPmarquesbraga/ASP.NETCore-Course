@@ -1,0 +1,27 @@
+﻿@using Assignment25.Models
+@model StockTrade
+
+@{
+    ViewBag.Title = "Trading";
+}
+
+<div class="box trading-panel">
+
+    <div class="flex trading-panel-flex">
+
+        <div id="stock-price-panel">
+
+            <div class="stock">
+                <h1 class="stock-title">@Model.StockName (@Model.StockSymbol)</h1>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th><small>$</small> <span class="price">@Model.Price.ToString("N")</span></th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignment22/1.0.0": {
+        "dependencies": {
+          "Service": "1.0.0",
+          "ServiceContract": "1.0.0"
+        },
+        "runtime": {
+          "Assignment22.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "dependencies": {
+          "ServiceContract": "1.0.0"
+        },
+        "runtime": {
+          "Service.dll": {}
+        }
+      },
+      "ServiceContract/1.0.0": {
+        "runtime": {
+          "ServiceContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

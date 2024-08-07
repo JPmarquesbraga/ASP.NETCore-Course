@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "j7kUwZjhHnZH6/o+Xyep2MT4bjg6KUWv2IeDSbxjaIE=",
+  "Source": "Assignment14",
+  "BasePath": "_content/Assignment14",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment14\\wwwroot",
+      "Source": "Assignment14",
+      "ContentRoot": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment14\\Assignment14\\wwwroot\\",
+      "BasePath": "_content/Assignment14",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment14\\Assignment14\\wwwroot\\StyleSheet .css",
+      "SourceId": "Assignment14",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment14\\Assignment14\\wwwroot\\",
+      "BasePath": "_content/Assignment14",
+      "RelativePath": "StyleSheet .css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet .css"
+    }
+  ]
+}

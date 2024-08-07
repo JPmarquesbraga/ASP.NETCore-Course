@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\wwwroot\\Captura de Tela (52).png",
+      "PackagePath": "staticwebassets\\Captura de Tela (52).png"
+    },
+    {
+      "Id": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\wwwroot\\Sample.txt",
+      "PackagePath": "staticwebassets\\Sample.txt"
+    },
+    {
+      "Id": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\wwwroot\\docs.pdf",
+      "PackagePath": "staticwebassets\\docs.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StaticFilesEmample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StaticFilesEmample.props",
+      "PackagePath": "build\\StaticFilesEmample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StaticFilesEmample.props",
+      "PackagePath": "buildMultiTargeting\\StaticFilesEmample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StaticFilesEmample.props",
+      "PackagePath": "buildTransitive\\StaticFilesEmample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VG+oXNvzUQjc3HLg1fp0rwF9Ffmn7GcI97T3G8tfsQg=",
+  "Source": "Assignment10",
+  "BasePath": "_content/Assignment10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment10\\wwwroot",
+      "Source": "Assignment10",
+      "ContentRoot": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment10\\Assignment10\\wwwroot\\",
+      "BasePath": "_content/Assignment10",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment10\\Assignment10\\wwwroot\\samplepdf.pdf",
+      "SourceId": "Assignment10",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment10\\Assignment10\\wwwroot\\",
+      "BasePath": "_content/Assignment10",
+      "RelativePath": "samplepdf.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\samplepdf.pdf"
+    }
+  ]
+}

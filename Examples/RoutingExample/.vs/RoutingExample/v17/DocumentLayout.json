@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\RoutingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7FF23E-3843-4AEE-95E2-F7C3FE1670D0}|RoutingExample\\RoutingExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\routingexample\\routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7FF23E-3843-4AEE-95E2-F7C3FE1670D0}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7FF23E-3843-4AEE-95E2-F7C3FE1670D0}|RoutingExample\\RoutingExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\routingexample\\routingexample\\customconstraint\\monthscustomconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7FF23E-3843-4AEE-95E2-F7C3FE1670D0}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\customconstraint\\monthscustomconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonthsCustomConstraint.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\RoutingExample\\RoutingExample\\CustomConstraint\\MonthsCustomConstraint.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\CustomConstraint\\MonthsCustomConstraint.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\RoutingExample\\RoutingExample\\CustomConstraint\\MonthsCustomConstraint.cs",
+              "RelativeToolTip": "RoutingExample\\CustomConstraint\\MonthsCustomConstraint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T01:03:06.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\RoutingExample\\RoutingExample\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\RoutingExample\\RoutingExample\\Program.cs",
+              "RelativeToolTip": "RoutingExample\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:44:11.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

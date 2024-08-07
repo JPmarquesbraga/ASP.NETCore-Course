@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\services\\finnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\services\\finnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\servicecontract\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\servicecontract\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\stocksapp\\stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F5B7CA2-9039-4A52-95D1-DDA02AE67763}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Models\\Stock.cs",
+              "RelativeToolTip": "StocksApp\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:12:42.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "StocksApp\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\TradingOptions.cs",
+              "RelativeToolTip": "StocksApp\\TradingOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:07:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\appsettings.json",
+              "RelativeToolTip": "StocksApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T21:01:40.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\ServiceContract\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "StocksApp\\ServiceContract\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\ServiceContract\\IFinnhubService.cs",
+              "RelativeToolTip": "StocksApp\\ServiceContract\\IFinnhubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:01:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinnService.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Services\\FinnService.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Services\\FinnService.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Services\\FinnService.cs",
+              "RelativeToolTip": "StocksApp\\Services\\FinnService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T01:45:18.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StocksApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:54:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T01:23:21.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T00:56:11.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T01:22:26.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Program.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StocksApp\\StocksApp\\Program.cs",
+              "RelativeToolTip": "StocksApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T00:52:54.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

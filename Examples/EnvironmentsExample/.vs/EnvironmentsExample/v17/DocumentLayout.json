@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\environmentsexample\\environmentsexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|solutionrelative:environmentsexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\environmentsexample\\environmentsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|solutionrelative:environmentsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\environmentsexample\\environmentsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|solutionrelative:environmentsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\environmentsexample\\environmentsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|solutionrelative:environmentsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\environmentsexample\\environmentsexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|solutionrelative:environmentsexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\environmentsexample\\environmentsexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|solutionrelative:environmentsexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\environmentsexample\\environmentsexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1DEE316-289F-4151-BD22-1574A07976C6}|EnvironmentsExample\\EnvironmentsExample.csproj|solutionrelative:environmentsexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EnvironmentsExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EnvironmentsExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T21:09:58.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EnvironmentsExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EnvironmentsExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T19:56:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EnvironmentsExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EnvironmentsExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T19:52:46.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnvironmentsExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EnvironmentsExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T19:51:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EnvironmentsExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EnvironmentsExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:51:20.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Program.cs",
+              "RelativeDocumentMoniker": "EnvironmentsExample\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Program.cs",
+              "RelativeToolTip": "EnvironmentsExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:37:54.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EnvironmentsExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EnvironmentsExample\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T19:42:31.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

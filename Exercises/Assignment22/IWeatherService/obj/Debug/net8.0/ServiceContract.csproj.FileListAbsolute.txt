@@ -1,0 +1,11 @@
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\bin\Debug\net8.0\ServiceContract.deps.json
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\bin\Debug\net8.0\ServiceContract.dll
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\bin\Debug\net8.0\ServiceContract.pdb
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\ServiceContract.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\ServiceContract.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\ServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\ServiceContract.dll
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\refint\ServiceContract.dll
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\ServiceContract.pdb
+C:\Users\joaop\OneDrive\Documentos\Programming\ASP.NET\Indiano\Assignment22\IWeatherService\obj\Debug\net8.0\ref\ServiceContract.dll

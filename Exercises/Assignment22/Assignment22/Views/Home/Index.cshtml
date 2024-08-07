@@ -1,0 +1,43 @@
+﻿@model IEnumerable<City_Weather>
+@inject IWeatherService weatherserviceInView
+@using Service
+
+@{
+    List<City_Weather> weatherFromServiceInView = weatherserviceInView.GetCities();
+}
+
+<div class="weather-container">
+    @foreach (var cityWeather in weatherFromServiceInView)
+    {
+        var colorClass = "";
+        if (cityWeather.TemperatureFahrenheit < 44)
+        {
+            colorClass = "blue-back";
+        } else if (cityWeather.TemperatureFahrenheit > 74)
+        {
+            colorClass = "orange-back";
+        } else
+        {
+            colorClass = "green-back";
+        }
+
+        <div class="box @colorClass w-30">
+            <table class="table w-100">
+                <tbody>
+                    <tr>
+                        <td>@cityWeather.CityName</td>
+                        <td>@cityWeather.DateAndTime.ToString("HH:mm") AM</td>
+                    </tr>
+                    <tr>
+                        <td>@cityWeather.TemperatureFahrenheit</td>
+                        <td>°F</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div>
+                <a href="/Weather/@cityWeather.CityUniqueCode">Details</a>
+            </div>
+
+        </div>
+    }
+</div>

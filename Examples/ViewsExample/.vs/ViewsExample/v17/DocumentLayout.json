@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\views\\home\\personwithproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\views\\home\\personwithproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\models\\personandproductwrappermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\models\\personandproductwrappermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\viewsexample\\viewsexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B688D9D-F551-4105-BCFA-AB781AEE33BC}|ViewsExample\\ViewsExample.csproj|solutionrelative:viewsexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T21:47:01.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:57:00.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_viewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\_viewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Home\\_viewImports.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\_viewImports.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Home\\_viewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:21:36.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewsExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:55:15.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:16:39.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Models\\Person.cs",
+              "RelativeToolTip": "ViewsExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:43:57.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Program.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Program.cs",
+              "RelativeToolTip": "ViewsExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:51:50.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonWithProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "RelativeDocumentMoniker": "ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "RelativeToolTip": "ViewsExample\\Views\\Home\\PersonWithProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T17:06:31.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonAndProductWrapperModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "RelativeToolTip": "ViewsExample\\Models\\PersonAndProductWrapperModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:30:30.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ViewsExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\ViewsExample\\ViewsExample\\Models\\Product.cs",
+              "RelativeToolTip": "ViewsExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:13:32.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

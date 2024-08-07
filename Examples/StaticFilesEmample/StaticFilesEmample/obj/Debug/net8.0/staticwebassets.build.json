@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3jeWX3pLIxpnnYBNW6xAZtk2G4HEv6OIrcLnYqzejVk=",
+  "Source": "StaticFilesEmample",
+  "BasePath": "_content/StaticFilesEmample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFilesEmample\\wwwroot",
+      "Source": "StaticFilesEmample",
+      "ContentRoot": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\wwwroot\\",
+      "BasePath": "_content/StaticFilesEmample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

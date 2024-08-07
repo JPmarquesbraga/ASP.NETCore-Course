@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\views\\_viewimport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\views\\_viewimport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment16\\assignment16\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2E79F51-AB54-4EBF-8AA8-3310AFFED3E7}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment16\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment16\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T21:41:07.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment16\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Assignment16\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T21:38:20.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment16\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment16\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T21:37:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment16\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment16\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:30:11.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Models\\CityWeather.cs",
+              "RelativeDocumentMoniker": "Assignment16\\Models\\CityWeather.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Models\\CityWeather.cs",
+              "RelativeToolTip": "Assignment16\\Models\\CityWeather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:33:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImport.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\_ViewImport.cshtml",
+              "RelativeDocumentMoniker": "Assignment16\\Views\\_ViewImport.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\_ViewImport.cshtml",
+              "RelativeToolTip": "Assignment16\\Views\\_ViewImport.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T19:44:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment16\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Program.cs",
+              "RelativeToolTip": "Assignment16\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:46:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assignment16\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment16\\Assignment16\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assignment16\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T20:03:43.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

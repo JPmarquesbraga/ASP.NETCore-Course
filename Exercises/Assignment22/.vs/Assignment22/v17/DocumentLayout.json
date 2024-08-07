@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\assignment22\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|solutionrelative:assignment22\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\assignment22\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|solutionrelative:assignment22\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\assignment22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|solutionrelative:assignment22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\assignment22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|solutionrelative:assignment22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\assignment22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|solutionrelative:assignment22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941547EA-D056-48B4-8417-73449480B2CE}|IWeatherService\\ServiceContract.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\iweatherservice\\city_weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941547EA-D056-48B4-8417-73449480B2CE}|IWeatherService\\ServiceContract.csproj|solutionrelative:iweatherservice\\city_weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941547EA-D056-48B4-8417-73449480B2CE}|IWeatherService\\ServiceContract.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\iweatherservice\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941547EA-D056-48B4-8417-73449480B2CE}|IWeatherService\\ServiceContract.csproj|solutionrelative:iweatherservice\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B61AC0-7954-4B63-B727-B3CCAA7D9F8E}|WeatherService\\Service.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\weatherservice\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B61AC0-7954-4B63-B727-B3CCAA7D9F8E}|WeatherService\\Service.csproj|solutionrelative:weatherservice\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\assignment22\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|solutionrelative:assignment22\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment22\\assignment22\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6D97C33-B43B-4BF8-B0AF-E0E8FAF71894}|Assignment22\\Assignment22.csproj|solutionrelative:assignment22\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment22\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment22\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:44:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment22\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Program.cs",
+              "RelativeToolTip": "Assignment22\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:42:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City_Weather.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\IWeatherService\\City_Weather.cs",
+              "RelativeDocumentMoniker": "IWeatherService\\City_Weather.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\IWeatherService\\City_Weather.cs",
+              "RelativeToolTip": "IWeatherService\\City_Weather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:37:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\IWeatherService\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "IWeatherService\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\IWeatherService\\IWeatherService.cs",
+              "RelativeToolTip": "IWeatherService\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:38:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment22\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment22\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:41:14.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment22\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment22\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T21:56:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment22\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Assignment22\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:51:34.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\WeatherService\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherService\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\WeatherService\\WeatherService.cs",
+              "RelativeToolTip": "WeatherService\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:37:35.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assignment22\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assignment22\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:41:47.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assignment22\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment22\\Assignment22\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assignment22\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T19:42:06.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

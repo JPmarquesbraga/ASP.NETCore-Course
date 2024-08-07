@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\MiddlewareExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC19C145-209E-420D-8630-738E299A17D1}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\middlewareexample\\middlewareexample\\custommiddleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC19C145-209E-420D-8630-738E299A17D1}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\custommiddleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC19C145-209E-420D-8630-738E299A17D1}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\middlewareexample\\middlewareexample\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC19C145-209E-420D-8630-738E299A17D1}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC19C145-209E-420D-8630-738E299A17D1}|MiddlewareExample\\MiddlewareExample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\middlewareexample\\middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC19C145-209E-420D-8630-738E299A17D1}|MiddlewareExample\\MiddlewareExample.csproj|solutionrelative:middlewareexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "RelativeToolTip": "MiddlewareExample\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:36:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\MiddlewareExample\\MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "MiddlewareExample\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:28:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\MiddlewareExample\\MiddlewareExample\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareExample\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\MiddlewareExample\\MiddlewareExample\\Program.cs",
+              "RelativeToolTip": "MiddlewareExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:08:59.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

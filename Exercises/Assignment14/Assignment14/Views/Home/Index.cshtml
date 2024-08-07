@@ -1,0 +1,40 @@
+﻿@using Assignment14.Models
+@model IEnumerable<CityWeather>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wheather</title>
+        <meta charset="utf-8" />
+        <link href="~/StyleSheet.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="page-content">
+        <h1>Wheather</h1>
+
+        <div>
+        @foreach (CityWeather cityWeather in Model)
+        {
+            <div class="box float-left w-50">
+                <h3></h3>
+                <table class="table w-100">
+                    <tbody>
+                        <tr>
+                            <td>@cityWeather.CityName</td>
+                        </tr>
+                        <tr>
+                            <td>@cityWeather.DateAndTime.ToString("HH:mm")</td>
+                            <td>AM</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div>
+                    <a href="/Weather/@cityWeather.CityUniqueCode">Details</a>
+                </div>
+
+            </div>    
+        }
+        </div>
+        </div>
+    </body>
+</html>

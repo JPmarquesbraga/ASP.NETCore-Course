@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "dFnBEJNBKW27gbdbjIITbaw8P2p7bchBCdZwkKzreVM=",
+  "Source": "EnvironmentsExample",
+  "BasePath": "_content/EnvironmentsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnvironmentsExample\\wwwroot",
+      "Source": "EnvironmentsExample",
+      "ContentRoot": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\wwwroot\\",
+      "BasePath": "_content/EnvironmentsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\wwwroot\\StyleSheets.css",
+      "SourceId": "EnvironmentsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\EnvironmentsExample\\EnvironmentsExample\\wwwroot\\",
+      "BasePath": "_content/EnvironmentsExample",
+      "RelativePath": "StyleSheets.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheets.css"
+    }
+  ]
+}

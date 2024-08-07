@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF6BC1-787D-4A3F-9C71-F015849DF727}|StaticFilesEmample\\StaticFilesEmample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\staticfilesemample\\staticfilesemample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF6BC1-787D-4A3F-9C71-F015849DF727}|StaticFilesEmample\\StaticFilesEmample.csproj|solutionrelative:staticfilesemample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF6BC1-787D-4A3F-9C71-F015849DF727}|StaticFilesEmample\\StaticFilesEmample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\staticfilesemample\\staticfilesemample\\myroot\\docs.pdf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36FF6BC1-787D-4A3F-9C71-F015849DF727}|StaticFilesEmample\\StaticFilesEmample.csproj|solutionrelative:staticfilesemample\\myroot\\docs.pdf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF6BC1-787D-4A3F-9C71-F015849DF727}|StaticFilesEmample\\StaticFilesEmample.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\staticfilesemample\\staticfilesemample\\myroot\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36FF6BC1-787D-4A3F-9C71-F015849DF727}|StaticFilesEmample\\StaticFilesEmample.csproj|solutionrelative:staticfilesemample\\myroot\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\Program.cs",
+              "RelativeDocumentMoniker": "StaticFilesEmample\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\Program.cs",
+              "RelativeToolTip": "StaticFilesEmample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:47:49.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docs.pdf",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\myroot\\docs.pdf",
+              "RelativeDocumentMoniker": "StaticFilesEmample\\myroot\\docs.pdf",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\myroot\\docs.pdf",
+              "RelativeToolTip": "StaticFilesEmample\\myroot\\docs.pdf",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T21:46:25.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sample.txt",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\myroot\\Sample.txt",
+              "RelativeDocumentMoniker": "StaticFilesEmample\\myroot\\Sample.txt",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\StaticFilesEmample\\StaticFilesEmample\\myroot\\Sample.txt",
+              "RelativeToolTip": "StaticFilesEmample\\myroot\\Sample.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-14T21:45:44.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

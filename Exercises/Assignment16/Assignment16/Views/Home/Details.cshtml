@@ -1,0 +1,24 @@
+﻿@using Assignment16.Models
+@model CityWeather
+
+<div class="weather-container">
+    <div class="box w-30">
+        <table class="table w-100">
+            <tbody>
+                <tr>
+                    <td>@Model.CityName</td>
+                </tr>
+                <tr>
+                    <td>@Model.DateAndTime.ToString("dd/MM/yyyy HH:mm")</td>
+                </tr>
+                <tr>
+                    <td>@Model.TemperatureFahrenheit</td>
+                    <td>°F</td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+            <a href="/">Back to Weather Home Page</a>
+        </div>
+    </div>
+</div>

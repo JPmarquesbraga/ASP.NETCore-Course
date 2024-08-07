@@ -1,0 +1,6 @@
+﻿namespace ControllersExample.wwwroot
+{
+    public class Sample
+    {
+    }
+}

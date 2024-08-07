@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment4_middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A67B775-96F9-45B5-9D05-236D4A98F3F9}|Assignment4_middleware\\Assignment4_middleware.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment4_middleware\\assignment4_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A67B775-96F9-45B5-9D05-236D4A98F3F9}|Assignment4_middleware\\Assignment4_middleware.csproj|solutionrelative:assignment4_middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A67B775-96F9-45B5-9D05-236D4A98F3F9}|Assignment4_middleware\\Assignment4_middleware.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment4_middleware\\assignment4_middleware\\middlewares\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A67B775-96F9-45B5-9D05-236D4A98F3F9}|Assignment4_middleware\\Assignment4_middleware.csproj|solutionrelative:assignment4_middleware\\middlewares\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A67B775-96F9-45B5-9D05-236D4A98F3F9}|Assignment4_middleware\\Assignment4_middleware.csproj|c:\\users\\joaop\\onedrive\\documentos\\programming\\asp.net\\indiano\\assignment4_middleware\\assignment4_middleware\\middlewares\\verifyerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A67B775-96F9-45B5-9D05-236D4A98F3F9}|Assignment4_middleware\\Assignment4_middleware.csproj|solutionrelative:assignment4_middleware\\middlewares\\verifyerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Verifyerror.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment4_middleware\\Assignment4_middleware\\Middlewares\\Verifyerror.cs",
+              "RelativeDocumentMoniker": "Assignment4_middleware\\Middlewares\\Verifyerror.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment4_middleware\\Assignment4_middleware\\Middlewares\\Verifyerror.cs",
+              "RelativeToolTip": "Assignment4_middleware\\Middlewares\\Verifyerror.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:05:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment4_middleware\\Assignment4_middleware\\Middlewares\\Operation.cs",
+              "RelativeDocumentMoniker": "Assignment4_middleware\\Middlewares\\Operation.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment4_middleware\\Assignment4_middleware\\Middlewares\\Operation.cs",
+              "RelativeToolTip": "Assignment4_middleware\\Middlewares\\Operation.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:02:06.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment4_middleware\\Assignment4_middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4_middleware\\Program.cs",
+              "ToolTip": "C:\\Users\\joaop\\OneDrive\\Documentos\\Programming\\ASP.NET\\Indiano\\Assignment4_middleware\\Assignment4_middleware\\Program.cs",
+              "RelativeToolTip": "Assignment4_middleware\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:43:17.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
